@@ -10,3 +10,7 @@
 >> sudo chmod 775 shrek.sh
 >> ./shrek.sh
 ```
+
+- [X] Meet With shrek
+- [] Have Dinner
+- [X] Say hello world
