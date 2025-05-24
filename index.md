@@ -12,5 +12,5 @@
 ```
 
 - [X] Meet With shrek
-- [] Have Dinner
+- [ ] Have Dinner
 - [X] Say hello world
